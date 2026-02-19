@@ -63,7 +63,7 @@ The custom AMI comes pre-configured with:
 ### Build the AMI
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/delightverse/AWS-AMI-Infrastructure-creation-using-Harshi-Corp-Packer
 cd packer_aws
 
 # Initialize Packer plugins
