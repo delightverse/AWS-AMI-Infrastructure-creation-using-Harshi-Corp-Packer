@@ -4,7 +4,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-> **Infrastructure as Code project demonstrating automated AMI creation for cloud infrastructure**
+> **AWS AMI Infrastructure creation using Harshi Corp Packer**
 
 ## Project Overview
 
